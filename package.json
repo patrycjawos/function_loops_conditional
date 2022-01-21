@@ -1,0 +1,23 @@
+{
+  "name": "function_loops_conditional",
+  "version": "1.0.0",
+  "description": "W repozytorium znajdują się zadania odnośnie umiejętności tworzenia zmiennych, funkcji, instrukcji warunkowych i pętli. Umieść rozwiązanie w wyznaczonym miejscu.  Powodzenia!!",
+  "main": "ex_1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrycjawos/function_loops_conditional.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrycjawos/function_loops_conditional/issues"
+  },
+  "homepage": "https://github.com/patrycjawos/function_loops_conditional#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
