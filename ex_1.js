@@ -23,7 +23,7 @@ function verify(input, goal) {
   }
 }
 
-verify(displayName('James','Bolklklklnd'), 'My name is Bond, James Bond');
+verify(displayName('James','Bond'), 'My name is Bond, James Bond');
 verify(displayName('Ada', 'Lovelace'), 'My name is Lovelace, Ada Lovelace');
 
 
