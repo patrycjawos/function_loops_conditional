@@ -10,7 +10,7 @@ function displayName(name, surname){
     let result = `My name is ${surname}, ${name} ${surname}`
     return result
 } 
-
+module.exports = displayName;
 
 
 /* Weryfikacja */

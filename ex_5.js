@@ -6,6 +6,11 @@ Jeśli ciąg ma mniej niż 3 znaki, skrót zostaje wypełniony spacjami. (Przyjr
   
 /* Rozwiązanie */
 
+function abbrev(){
+
+}
+
+module.exports = abbrev;
 
 /* Weryfikacja */
 

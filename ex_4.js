@@ -3,7 +3,11 @@ Samogłoski to „a”, „e”, „i”, „o”, „u”.
 */
 
 /* Rozwiązanie */
+function printVowels(){
 
+}
+
+module.exports = printVowels;
 
 /* Weryfikacja */
 

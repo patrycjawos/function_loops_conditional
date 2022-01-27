@@ -8,8 +8,11 @@ Twoja funkcja zwraca „First player wins”, jeśli pierwszy gracz wygrał, „
 */
 
 /* Rozwiązanie */
+function rockPaperScissors(){
+  
+}
 
-
+module.exports = rockPaperScissors;
 /* Weryfikacja */
 
 function verify(input, goal) {

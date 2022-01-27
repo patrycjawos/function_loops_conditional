@@ -5,6 +5,12 @@ Zmień także funkcję tak, aby obsługiwała błędy. Jeśli jeden z przekazany
 
 /* Rozwiązanie */
 
+function rockPaperScissors(){
+
+}
+
+
+module.exports = rockPaperScissors;
 
 /* Weryfikacja */
 
